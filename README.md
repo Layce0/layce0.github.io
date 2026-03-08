@@ -1,2 +1,5 @@
 # layce0.github.io
-WinterArc - Site principal et fichiers de configuration
+
+Site personnel et configuration pour l'application WinterArc.
+
+Contient le fichier app-ads.txt pour la validation Google AdMob.
